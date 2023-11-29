@@ -1,2 +1,3 @@
 # Tic-Tac-Toe
-![Screenshot (164)](https://github.com/uveshAhmad/Tic-Tac-Toe/assets/115268659/b9b1e9c9-7c9c-4eb5-aa72-7f39754fcb20)
+ 
+![TicTac (1)](https://github.com/uveshAhmad/Tic-Tac-Toe/assets/115268659/0af366e9-328d-4d94-80fa-9dcf8a20d138)
